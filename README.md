@@ -4,14 +4,14 @@
 ```js
 const aayan = {
   gender: "male",
-  skills: ["web development", "web design"],
-  learning: ["zig", "tailwind"],
+  skills: ["web development", "ui/ux design"],
+  learning: ["python", "react"],
   technologies: {
     frontEnd: ["html", "javascript", "css", "bootstrap", "sass"],
     backEnd: ["node", "express", "rest/soap api(s)"],
     databases: ["firebase"],
   },
-  hobbies: ["Football", "Gaming"]
+  hobbies: ["Football", "Table-Tennis", "Gaming", "Reverse Engineering"]
 };
 
 console.log(aayan)
