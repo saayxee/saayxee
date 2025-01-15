@@ -1,5 +1,5 @@
 <h1> Aayan Zaidi </h1> 
-<p>Hello, World! I’m Aayan Zaidi, a dedicated full-stack web developer 🔥 and designer 🎨 with a strong focus on enhancing user accessibility and experience.</p>
+<p>Hi, I’m Aayan Zaidi. A dedicated full-stack web developer and designer with a strong focus on enhancing user accessibility and experience.</p>
 
 ```js
 const aayan = {
@@ -11,7 +11,7 @@ const aayan = {
     backEnd: ["node", "express", "rest/soap api(s)"],
     databases: ["firebase"],
   },
-  hobbies: ["Football", "Table-Tennis", "Gaming", "Reverse Engineering"]
+  hobbies: ["Cybersecurity", "Creating CLI Tools", "Football"]
 };
 
 console.log(aayan)
