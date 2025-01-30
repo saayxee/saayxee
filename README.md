@@ -1,16 +1,6 @@
-<h1> Sherlock </h1> 
-<p>Hi, I’m Sherlock. A dedicated full-stack web/CLI developer and designer with a strong focus on enhancing user accessibility and experience.</p>
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" width="23px" height="23px">
+I'm Sherlock, a software engineer and cybersecurity enthusiast. Currently, I'm learning React and Python, and studying for my CCNA.
 
-```js
-const sherlock = {
-  gender: "male",
-  skills: ["web development", "cli development", "ui/ux design"],
-  learning: ["python", "mongodb"],
-  technologies: {
-    frontEnd: ["html", "javascript", "css", "bootstrap", "sass"],
-    backEnd: ["node", "express", "rest/soap api(s)"],
-  },
-  hobbies: ["cybersecurity", "football"]
-};
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saayxee&layout=compact)
 
-console.log(sherlock)
+Want to get in touch? <a href='mailto:saayxee@gmail.com'>email me!</a>
