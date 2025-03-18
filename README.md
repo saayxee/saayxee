@@ -1,6 +1,6 @@
 ### Hello ~ ✌️
 
-I'm Aayan Zaidi, a 13-year-old software engineer and cybersecurity enthusiast from Punjab, Pakistan. Currently, I'm learning React and Python, and studying for my Security+.
+I'm a software engineer and cybersecurity enthusiast from Pakistan. Currently, I'm learning React and Jest, and studying for my Security+.
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saayxee&layout=compact&theme=swift&hide_border=true)
